@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.colorname {
+    color: orange;
+}
+
+section {
+    display: flex;
+    margin-bottom: 190px;
+}
+
+.breaktwo {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.breaktwo img {
+    width: 80%;
+}
+
+.hirebut {
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(orange, tomato);
+    color: aliceblue;
+    font-weight: 700;
+    padding: 13px 40px;
+    border-radius: 5px;
+    border-color: orangered;
+}
+
+.topside {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.dreambig {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 110px;
+}
