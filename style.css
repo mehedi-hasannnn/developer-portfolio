@@ -95,3 +95,33 @@ table {
   tr {
     height: 50px; 
   }
+
+.registration {
+    padding-left: 70px;
+}
+
+.submitbut {
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(orange, tomato);
+    color: aliceblue;
+    font-weight: 700;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border-color: orangered;
+}
+
+.resetbut {
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(orange, tomato);
+    color: aliceblue;
+    font-weight: 700;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border-color: orangered;
+}
+
+.skillset {
+    padding-left: 70px;
+}
