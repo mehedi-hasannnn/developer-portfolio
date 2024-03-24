@@ -1,0 +1,97 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.colorname {
+    color: orange;
+}
+
+.flexible-cont {
+    display: flex;
+    margin-bottom: 190px;
+}
+
+.breaktwo {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.experience-item {
+    width: 40%;
+    padding-left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 6px solid blue;
+}
+
+.breaktwo img {
+    width: 80%;
+}
+
+.hirebut {
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(orange, tomato);
+    color: aliceblue;
+    font-weight: 700;
+    padding: 13px 40px;
+    border-radius: 5px;
+    border-color: orangered;
+}
+
+.topside {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.dreambig {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 110px;
+}
+
+.experience {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 70px;
+}
+
+#web-developer {
+    border-left: 6px solid tomato;
+    margin-bottom: 10px;
+}
+
+footer p {
+    text-align: center;
+}
+
+.myprojects {
+    padding-left: 70px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  tr {
+    height: 50px; 
+  }
